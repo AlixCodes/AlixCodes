@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohd+Ali;Software+Engineer;Building+Clean+and+Impactful+Codes" alt="Typing SVG" />
 </h1>
 
-![Cyberpunk Visual](https://files.catbox.moe/guvnq3.gif)
+<p align="center">
+  <img src="CyberPunk-Samurai.gif" height="270" alt="cyberpunk visual" />
+</p>
+
 
 
 ---
