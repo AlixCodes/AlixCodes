@@ -1,17 +1,56 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Ali!;Software+Engineer+%7C+Full+Stack+Developer;Hackathon+Winner+%7C+IEEE+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohd+Ali+%F0%9F%92%BB;Software+Engineer+%7C+DSA+Lover+%7C+FastAPI+Builder;IEEE+Mentor+%7C+Hackathon+Winner+%7C+Cyberpunk+Visionary" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBvbjE1aXUxaW1jd29vdTQ5YW52dTFmMGZtZnVmcWplN2x2ZTRtbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alixcodes&show_icons=true&theme=tokyonight&hide_title=true" alt="Alix's GitHub stats" />
 </p>
 
 ---
 
-### ⚡ About Me
+### 🧠 About Me
+- 🚀 Software Engineer skilled in **C++**, **Python**, **DSA**, and **FastAPI**
+- 🏆 Hackathon Winner (Software + Hardware Innovation)
+- 🧑‍🏫 IEEE Student Mentor & International Conference Anchor
+- 💬 Fluent in English & learning Japanese 🇯🇵 (Bilingual)
+- ⚡ I craft scalable backend APIs & love building things that solve **real-world problems**
 
-```bash
-> Software Engineer  
-> Crafting scalable apps with FastAPI, C++, and Python  
-> Hackathon Winner 🏆 | IEEE Conference Anchor 🎤 | Student Mentor  
-> Clean code. Real impact. Quiet confidence.
+---
+
+### 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-231f20?style=for-the-badge&logo=data:image/png;base64,...&logoColor=white)
+
+---
+
+### 💻 Projects
+
+🔹 **Image Search from Video**  
+<sub>Built with FastAPI, OpenCV & Qdrant | Extracts frames from video & allows intelligent visual search</sub>
+
+🔹 **AI-Based Fall Detection System for Elderly** *(Hackathon Winner)*  
+<sub>Used sensors, ML models & embedded systems to detect falls in real-time</sub>
+
+🔹 **Expense Tracker** *(C++)*  
+<sub>CLI-based personal finance tracker using object-oriented principles</sub>
+
+---
+
+### 📣 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alixcodes)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikamanaqvi@gmail.com)
+
+---
+
+### ⚔️ Fun Fact  
+I bring the same precision to code as a samurai brings to battle — minimal, impactful, and clean.
+
+<p align="center">
+  <img src="https://media.tenor.com/mhJXfNUZRzYAAAAC/edogawa-conan-thinking.gif" height="160px" />
+</p>
