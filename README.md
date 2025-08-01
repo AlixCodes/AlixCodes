@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohd+Ali+%F0%9F%92%BB;Software+Engineer+%7C+DSA+Lover+%7C+FastAPI+Builder;IEEE+Mentor+%7C+Hackathon+Winner+%7C+Cyberpunk+Visionary" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Mohd+Ali+%F0%9F%92%BB;Software+Engineer+%7C+FastAPI+Builder;IEEE+Mentor+%7C+Hackathon+Winner+%7C+Cyberpunk+Visionary" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alixcodes&show_icons=true&theme=tokyonight&hide_title=true" alt="Alix's GitHub stats" />
+  <img src="https://i.imgur.com/Uq8vRHM.gif" height="280" alt="cyberpunk vibe" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🚀 Software Engineer skilled in **C++**, **Python**, **DSA**, and **FastAPI**
+- 🚀 Software Engineer skilled in **C++**, **Python**, and **FastAPI**
 - 🏆 Hackathon Winner (Software + Hardware Innovation)
 - 🧑‍🏫 IEEE Student Mentor & International Conference Anchor
 - 💬 Fluent in English & learning Japanese 🇯🇵 (Bilingual)
-- ⚡ I craft scalable backend APIs & love building things that solve **real-world problems**
+- ⚡ Passionate about building backend systems that solve real problems
 
 ---
 
@@ -48,8 +48,8 @@
 
 ---
 
-### ⚔️ Fun Fact  
-I bring the same precision to code as a samurai brings to battle — minimal, impactful, and clean.
+### ⚔️ Philosophy
+I believe in clarity over chaos - simple code, powerful impact. Precision-driven like a cyberpunk architect.
 
 <p align="center">
   <img src="https://media.tenor.com/mhJXfNUZRzYAAAAC/edogawa-conan-thinking.gif" height="160px" />
