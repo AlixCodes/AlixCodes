@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/d5HqiFY.gif" height="270" alt="animated visual" />
+  <img src="https://files.catbox.moe/guvnq3.gif" height="270" alt="Cyberpunk Samurai" /> 
 </p>
+
 
 ---
 
