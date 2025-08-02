@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me
-- 🚀 Software Engineer skilled in **C++**, **Python**, and **FastAPI**
+- 🚀 Software Engineer skilled in **C++**, **Python**, and **Full stack development**
 - 🏆 Hackathon Winner (Software + Hardware Innovation)
 - 🧑‍🏫 IEEE Student Mentor & International Conference Anchor
 - 💬 Fluent in English & learning Japanese 🇯🇵 (Bilingual)
