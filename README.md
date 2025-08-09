@@ -44,13 +44,13 @@
 
 ---
 
-### 📣 Get in Touch
+###  Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alixcodes)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikamanaqvi@gmail.com)
 
 ---
 
-### ⚔️ Philosophy
+###  Philosophy
 I believe in clarity over chaos - simple code, powerful impact. Precision-driven like a cyberpunk architect.
 
 <p align="center">
