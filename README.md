@@ -10,16 +10,16 @@
 
 ---
 
-### 🧠 About Me
-- 🚀 Software Engineer skilled in **C++**, **Python**, and **Full stack development**
-- 🏆 Hackathon Winner (Software + Hardware Innovation)
-- 🧑‍🏫 IEEE Student Mentor & International Conference Anchor
-- 💬 Fluent in English & learning Japanese 🇯🇵 (Bilingual)
-- ⚡ Passionate about building backend systems that solve real problems
+###  About Me
+-  Software Engineer skilled in **C++**, **Python**, and **Full stack development**
+-  Hackathon Winner (Software + Hardware Innovation)
+-  IEEE Student Mentor & International Conference Anchor
+-  Fluent in English & learning Japanese 🇯🇵 (Bilingual)
+-  Passionate about building backend systems that solve real problems
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 
 ---
 
-### 💻 Projects
+###  Projects
 
 🔹 **Image Search from Video**  
 <sub>Built with FastAPI, OpenCV & Qdrant | Extracts frames from video & allows intelligent visual search</sub>
